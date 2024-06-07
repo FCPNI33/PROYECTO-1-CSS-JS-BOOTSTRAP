@@ -48,7 +48,7 @@ body {
 
 /*Hogar Inicio*/
 .contenedor-hogar {
-  background-image: url("../imagenes/imagen\ 1.png");
+  background-color: red;
   background-position: center;
   background-size: cover;
   width: 100%;
