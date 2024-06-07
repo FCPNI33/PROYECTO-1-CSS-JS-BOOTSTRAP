@@ -57,6 +57,7 @@ body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  justify-content: space-between;
 }
 
 .hogar-navegacion {
